@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
-http://172.30.30.30/hls/Gazi-TV.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
